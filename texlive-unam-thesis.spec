@@ -1,6 +1,6 @@
 Name:		texlive-unam-thesis
 Version:	51207
-Release:	1
+Release:	2
 Summary:	Create documents according to the UNAM guidelines
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/unam-thesis
