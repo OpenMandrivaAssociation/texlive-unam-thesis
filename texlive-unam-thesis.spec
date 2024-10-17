@@ -3,7 +3,7 @@ Version:	51207
 Release:	2
 Summary:	Create documents according to the UNAM guidelines
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/unam-thesis
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/unam-thesis
 License:	gpl3+
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/unam-thesis.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/unam-thesis.doc.r%{version}.tar.xz
